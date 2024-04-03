@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": "3699fdf3-db6f-43b4-91ec-1a6a8ef46627",
+      "title": "title",
+      "body": "body"
+    }
+  ],
+  "users": {
+    "id": 1,
+    "name": "name1",
+    "email": "<EMAIL>",
+    "password": "<PASSWORD>"
+  }
+}
